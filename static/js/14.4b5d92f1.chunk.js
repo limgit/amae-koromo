@@ -1,2 +1,0 @@
-(this["webpackJsonpamae-koromo"]=this["webpackJsonpamae-koromo"]||[]).push([[14],{814:function(o,r,t){"use strict";t.r(r),t.d(r,"error",(function(){return a}));var e=t(809),n=t.n(e);t(810),t(811);function a(o){return new n.a({type:"error",text:o,layout:"top",killer:!0,timeout:5e3}).show()}}}]);
-//# sourceMappingURL=14.4b5d92f1.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"sources":["utils/polyfill.ts"],"names":["require"],"mappings":"mHAAAA,SAAQ,KACRA,EAAQ,KAEO","file":"static/js/15.f04184ad.chunk.js","sourcesContent":["require(\"react-app-polyfill/ie9\");\nrequire(\"react-app-polyfill/stable\");\n\nexport default {};\n"],"sourceRoot":""}
